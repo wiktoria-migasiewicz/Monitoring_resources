@@ -26,4 +26,3 @@ print(f"Hardware info: {hardware_info}")
 # Closing the connection
 client_socket.close()
 
-
