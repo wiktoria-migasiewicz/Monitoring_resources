@@ -9,8 +9,11 @@
 
 
 ## About the Project
+
 **Videos** of navigating through executing app:
+
 **- ![Starting program](Starting_project_video.mp4 "Starting program")**
+
 **- ![Checking data on the web](Checking_data_video.mp4 "Checking data on the web")**
 
 A **Python3** program for collecting information about computer (for the project this will be one machine) **hardware**, **operating systems**, installed **software** and their versions.
